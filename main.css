@@ -1,0 +1,55 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+ background-color: rgba(193, 209, 242, 0.8);
+ color: #5176A6; 
+  
+}
+#offers{
+  
+    padding-top: 75px;
+  
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top:40px;
+}
+footer{
+    /* añadiendo imagen como fondo */
+    background: url(./images/smartphones.png);
+    
+}
+
+/* Color Theme Swatches in Hex */
+/* .Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-1-hex { color: #C2D2F2; }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-2-hex { color: #5176A6; }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-3-hex { color: #70731F; }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-4-hex { color: #A67D4B; }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-5-hex { color: #A64B29; } */
+
+/* Color Theme Swatches in RGBA */
+/* .Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-1-rgba { color: rgba(193, 209, 242, 1); }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-2-rgba { color: rgba(81, 117, 165, 1); }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-3-rgba { color: rgba(111, 114, 30, 1); }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-4-rgba { color: rgba(165, 124, 74, 1); }
+.Great-Smoky-Mountains-Panorama.-Wide-Wilderness-Background.-5-rgba { color: rgba(165, 74, 41, 1); } */
+
+.colors{
+color: #C2D2F2; 
+color: #5176A6; 
+color: #70731F;
+color: #A67D4B; 
+color: #A64B29; 
+}
+fonts{
+font-family: 'Playfair Display', serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+.contact{
+    background-color:
+}
